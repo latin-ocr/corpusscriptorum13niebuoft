@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptorum13niebuoft_0827.png"; bbox 0 0 1742 3184; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 56 1361">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 56 1361">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 56 1361"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 56 1361; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 1370 16 1812">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 1370 16 1812">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 1370 16 1812"><span class='ocrx_word' id='word_1_2' title='bbox 0 1370 5 1378; x_wconf 70' lang='grc' dir='ltr'><em>ι</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 0 1383 16 1668; x_wconf 42' lang='grc' dir='ltr'>...κιαω-ιὲωτὶἢιέῦἱῖιμ</span> <span class='ocrx_word' id='word_1_4' title='bbox 0 1675 5 1681; x_wconf 62' lang='lat'>2</span> <span class='ocrx_word' id='word_1_5' title='bbox 0 1686 13 1726; x_wconf 49' lang='lat' dir='ltr'>xsrm</span> <span class='ocrx_word' id='word_1_6' title='bbox 0 1772 1 1779; x_wconf 47' lang='grc' dir='ltr'>η</span> <span class='ocrx_word' id='word_1_7' title='bbox 0 1788 6 1798; x_wconf 62' lang='lat'><em>5</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 0 1804 9 1812; x_wconf 53' lang='lat' dir='ltr'><strong>a</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
